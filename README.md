@@ -1,4 +1,16 @@
-### Hi there 👋
+ <div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=https://mia-mia.tistory.com/%20&fontSize=10&&fontAlign=90)
+
+  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mia-Oh&layout=compact)](https://github.com/Mia-Oh/github-readme-stats)
+   -->
+  
+![Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mia-Oh&show_icons=true&theme=radical)
+
+
+
+</div>
 
 <!--
 **Mia-Oh/Mia-Oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

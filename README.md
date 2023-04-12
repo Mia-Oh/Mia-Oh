@@ -17,9 +17,9 @@
 
 
 ### 🎸 Contact 🎸
-
-  **[🍀 Resume ](https://mia-oh.github.io/resume/index.html)** </br>
-  **[🍋 Tech Blog ](https://mia-oh.github.io/resume/index.html)** </br>
+  
+  **<a href="https://mia-oh.github.io/resume/index.html" target="_blank" rel="noreferrer">🍀 Resume </a>** </br>
+  **<a href="https://mia-mia.tistory.com/" target="_blank" rel="noreferrer">🍋 Tech Blog </a>** </br>
   **<a href="mailto:songmiaoh@gmail.com" target="_blank" rel="noreferrer">📧 Gmail: Sending Email</a>**
   
 </div>

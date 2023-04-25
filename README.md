@@ -48,7 +48,8 @@
 
  <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mia-Oh&show_icons=true&theme=radical" height="130">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mia-Oh&layout=compact" height="130">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mia-Oh&show_icons=true&theme=radical" height="130">  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mia-Oh&layout=compact" height="130">
 
 </div>
 
